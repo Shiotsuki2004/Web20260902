@@ -3,7 +3,6 @@ import JournalView from "@/components/JournalView";
 import { journalEntries } from "@/lib/journalData";
 
 export const metadata: Metadata = {
-  // title: "Journal — Arisa",
   title: "Journal — Shiotsuki",
 };
 

@@ -20,7 +20,6 @@ export default function Nav() {
           href="/"
           className="font-display text-lg tracking-tight text-paper transition-colors hover:text-accent"
         >
-          {/* Arisa */}
           Shiotsuki
         </Link>
         <nav className="flex items-center gap-6">

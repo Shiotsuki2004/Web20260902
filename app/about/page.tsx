@@ -1,12 +1,10 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  // title: "About — Arisa",
   title: "About — Shiotsuki",
 };
 
 const paragraphs = [
-  // `Hi, I'm Arisa.`,
   `Hi, I'm Shiotsuki.`,
   `I'm a university student studying information engineering. I'm interested in a wide range of things, including AI, computer vision, programming, and other areas of technology.`,
   `Outside of technology, I enjoy reading and drawing. I read many different kinds of books, from novels and history to economics, science, and technology. I've also loved drawing since I was a child. After entering university, I started studying drawing more seriously, especially human anatomy, poses, and backgrounds.`,
