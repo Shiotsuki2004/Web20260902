@@ -18,7 +18,8 @@ const body = Lora({
 });
 
 export const metadata: Metadata = {
-  title: "Arisa",
+  // title: "Arisa",
+  title: "Shiotsuki",
   description:
     "Information engineering student interested in AI and computer vision, who spends her quiet hours drawing, reading, and going deep into the things she loves.",
   icons: {

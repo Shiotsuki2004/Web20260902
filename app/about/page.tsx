@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "About — Arisa",
+  // title: "About — Arisa",
+  title: "About — Shiotsuki",
 };
 
 const paragraphs = [
