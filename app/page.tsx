@@ -17,7 +17,6 @@ export default function Home() {
         <div className="w-full md:w-3/5">
           <p className="font-display text-sm text-accentDim">Information engineering student</p>
           <h1 className="mt-3 font-display text-5xl font-medium leading-[1.05] text-paper md:text-6xl">
-            {/* Arisa */}
             Shiotsuki, undergrad (class of 2027).
           </h1>
 

@@ -13,7 +13,6 @@ type Props = { params: { contentId: string } };
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const entry = await getDiaryEntry(params.contentId);
   return {
-    // title: entry.title ? `${entry.title} — Arisa` : `Diary — Arisa`,
     title: entry.title ? `${entry.title} — Shiotsuki` : `Diary — Shiotsuki`,
   };
 }

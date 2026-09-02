@@ -5,7 +5,6 @@ import DiaryList from "@/components/DiaryList";
 export const revalidate = 60;
 
 export const metadata: Metadata = {
-  // title: "Diary — Arisa",
   title: "Diary — Shiotsuki",
 };
 
