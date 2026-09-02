@@ -1,4 +1,4 @@
-# Arisa — personal site
+# Shiotsuki — personal site
 
 A small Next.js (App Router + TypeScript + Tailwind CSS) site.
 
